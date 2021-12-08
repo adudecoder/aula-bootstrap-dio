@@ -1,0 +1,38 @@
+nav {
+    background-color: red;
+}
+
+.quem-somos {
+    background-color: rebeccapurple;
+}
+
+.margin {
+    padding: 50px;
+}
+
+.quem-somos h2 {
+    font-weight: bold;
+}
+
+.quem-somos p {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.parceiros {
+    background-color: #1E90FF;
+}
+
+section .row img {
+    width: 100%;
+}
+
+section h2 {
+    font-weight: bold;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
